@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá, me chamo Matheus:wave:
+
+:computer: Sou um estudante de Ciências da Computação :computer:
+
+<div>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheusa1&show_icons=true&theme=outrun"/>
+  <img height="175cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusa1&layout=compact&theme=outrun&langs_count=10"/>
+</div>
+
+<div>
+  
+  <div>
+  <a href="https://www.linkedin.com/in/matheus-andrade-a8a6b6233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  </div>
+
+  
+</div>
+
+ ![Snake animation](https://github.com/Lucasrafa13/LucasRafa13/blob/output/github-contribution-grid-snake.svg)
