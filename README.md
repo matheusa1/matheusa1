@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Olá, me chamo Matheus:wave:
 
-:computer: Sou um estudante de Ciências da Computação :computer:
+:computer: Sou um estudante de Ciências da Computação :computer: <br/>
 Atualmente estou cursando o 4º período.
 
 <div>
