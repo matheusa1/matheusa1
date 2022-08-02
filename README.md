@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Olá, me chamo Matheus:wave:
 
 :computer: Sou um estudante de Ciências da Computação :computer: <br/>
-Atualmente estou cursando o 4º período.
+Atualmente estou cursando o 5º período.
 
 <div>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheusa1&show_icons=true&theme=outrun"/>
