@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 :computer: Sou um estudante de Ciências da Computação :computer: <br/>
 
+<!--
+
 <div>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheusa1&show_icons=true&theme=outrun"/>
   <img height="175cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusa1&layout=compact&theme=outrun&langs_count=10"/>
@@ -32,3 +34,6 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/matheusa1/matheusa1/blob/output/github-contribution-grid-snake.svg)
+
+-->
+
