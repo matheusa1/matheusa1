@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <div> 
   <div>
       <a href="https://www.linkedin.com/in/matheus-andrade-a8a6b6233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-      <a href="https://matheussandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" />
   </div>  
 </div>
 
