@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, me chamo Matheus:wave:
+# Olá, me chamo Matheus :wave:
 
 :computer: Sou um estudante de Ciências da Computação :computer: <br/>
 
